@@ -1,60 +1,50 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>FACES CENSO-2022</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-direction: column;
-      min-height: 100vh;
+      margin: 2rem;
+      background-color: #f9f9f9;
     }
-    header {
-      background-color: #004466;
-      color: white;
-      padding: 1em;
+    h1 {
       text-align: center;
-    }
-    main {
-      flex: 1;
-      padding: 1em;
+      color: #333;
     }
     input[type="text"] {
-      padding: 0.5em;
       width: 100%;
-      max-width: 400px;
-      margin-bottom: 1em;
+      padding: 10px;
+      margin: 20px 0;
+      font-size: 1rem;
     }
     ul {
       list-style-type: none;
       padding-left: 0;
     }
     li {
-      margin: 0.5em 0;
+      margin: 5px 0;
+    }
+    a {
+      text-decoration: none;
+      color: #0066cc;
     }
     footer {
-      background-color: #f1f1f1;
-      padding: 1em;
-      font-size: 0.9em;
-      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #666;
+      border-top: 1px solid #ccc;
+      padding-top: 10px;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>FACES CENSO-2022</h1>
-  </header>
-  <main>
-    <h2>Estados disponíveis:</h2>
-    <ul id="estadoList"></ul>
+  <h1>FACES CENSO-2022</h1>
+  <input type="text" id="search" placeholder="Digite parte do nome do arquivo..." onkeyup="filterFiles()">
+  <ul id="fileList"></ul>
 
-    <h2>Pesquisar arquivos .geojson:</h2>
-    <input type="text" id="search" placeholder="Digite parte do nome do arquivo..." onkeyup="filterFiles()">
-    <ul id="fileList"></ul>
-  </main>
   <footer>
     Projeto desenvolvido pelo GT de Importação da UMBRAOSM - União dos Mapeadores Brasileiros do OpenStreetMap.<br>
     Contato por E-mail: <a href="mailto:contato@umbraosm.com.br">contato@umbraosm.com.br</a> - 
@@ -64,52 +54,48 @@
   </footer>
 
   <script>
-    // Lista dos estados
-    const estados = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG",
-                     "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR",
-                     "RS", "SC", "SE", "SP", "TO"];
-
-    // Mostra os estados como lista
-    const estadoList = document.getElementById("estadoList");
-    estados.forEach(uf => {
-      const li = document.createElement("li");
-      li.textContent = uf;
-      estadoList.appendChild(li);
-    });
-
-    // Lista de arquivos .geojson (exemplo, pois HTML puro não lê pasta automaticamente)
-    const arquivosGeojson = [
-      "AC/limites.geojson",
-      "AL/distritos.geojson",
-      "AM/faces.geojson",
-      "SP/sao_paulo_faces.geojson",
-      "PA/belem_setores.geojson"
-      // Adicione todos os arquivos aqui manualmente ou use script para gerar
-    ];
-
-    function renderList(filter = "") {
+    function renderList(arquivos, filtro = "") {
       const fileList = document.getElementById('fileList');
       fileList.innerHTML = "";
-      arquivosGeojson
-        .filter(f => f.toLowerCase().includes(filter.toLowerCase()))
-        .forEach(file => {
+
+      const arquivosFiltrados = arquivos.filter(arquivo =>
+        arquivo.toLowerCase().includes(filtro.toLowerCase())
+      );
+
+      if (arquivosFiltrados.length === 0) {
+        const li = document.createElement("li");
+        li.textContent = "Nenhum arquivo encontrado.";
+        fileList.appendChild(li);
+      } else {
+        arquivosFiltrados.forEach(arquivo => {
           const li = document.createElement("li");
-          const a = document.createElement("a");
-          a.href = "../" + file;
-          a.textContent = file;
-          a.target = "_blank";
-          li.appendChild(a);
+          const link = document.createElement("a");
+          link.href = "../" + arquivo;
+          link.textContent = arquivo;
+          link.target = "_blank";
+          li.appendChild(link);
           fileList.appendChild(li);
         });
+      }
     }
+
+    let todosArquivos = [];
 
     function filterFiles() {
-      const query = document.getElementById('search').value;
-      renderList(query);
+      const termo = document.getElementById('search').value;
+      renderList(todosArquivos, termo);
     }
 
-    renderList(); // inicializa lista
+    fetch('arquivos.json')
+      .then(res => res.json())
+      .then(data => {
+        todosArquivos = data;
+        renderList(todosArquivos);
+      })
+      .catch(err => {
+        console.error("Erro ao carregar arquivos.json:", err);
+        document.getElementById('fileList').innerHTML = "<li>Erro ao carregar lista de arquivos</li>";
+      });
   </script>
 </body>
 </html>
-
