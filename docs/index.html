@@ -2,122 +2,99 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>FACES CENSO2022</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <title>FACES CENSO-2022</title>
   <style>
-    body { display: flex; flex-direction: column; height: 100vh; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f5f5f5; }
-    header { background-color: #0074D9; color: white; padding: 1rem; text-align: center; font-size: 1.5rem; }
-    main { display: flex; flex: 1; overflow: hidden; }
-    #folders { width: 250px; background: #ffffff; border-right: 1px solid #ccc; overflow-y: auto; padding: 1rem; }
-    #files { flex: 1; background: #fafafa; padding: 1rem; overflow-y: auto; }
-    .folder, .file { display: flex; align-items: center; padding: 0.5rem; cursor: pointer; border-radius: 5px; margin-bottom: 0.5rem; transition: background 0.2s; }
-    .folder:hover, .file:hover { background-color: #e0e0e0; }
-    .folder i, .file i { margin-right: 10px; color: #0074D9; }
-    a { color: inherit; text-decoration: none; }
-    h2 { margin-top: 0; }
-    #search { width: 100%; padding: 0.5rem; margin-bottom: 1rem; font-size: 1rem; border: 1px solid #ccc; border-radius: 5px; }
-    footer { background-color: #0074D9; color: white; text-align: center; padding: 1rem; font-size: 0.9rem; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      background-color: #004466;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    main {
+      flex: 1;
+      padding: 1em;
+    }
+    input[type="text"] {
+      padding: 0.5em;
+      width: 100%;
+      max-width: 400px;
+      margin-bottom: 1em;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 0.5em 0;
+    }
+    footer {
+      background-color: #f1f1f1;
+      padding: 1em;
+      font-size: 0.9em;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
+  <header>
+    <h1>FACES CENSO-2022</h1>
+  </header>
+  <main>
+    <input type="text" id="search" placeholder="Pesquisar arquivos .zip..." onkeyup="filterFiles()">
+    <ul id="fileList">
+      <!-- Arquivos serão listados aqui -->
+    </ul>
+  </main>
+  <footer>
+    Projeto desenvolvido pelo GT de Importação da UMBRAOSM - União dos Mapeadores Brasileiros do OpenStreetMap.<br>
+    Contato por E-mail: <a href="mailto:contato@umbraosm.com.br">contato@umbraosm.com.br</a> - 
+    Website: <a href="https://www.umbraosm.com.br" target="_blank">www.umbraosm.com.br</a> - 
+    Grupo do Telegram: <a href="https://t.me/grupoumbraosm" target="_blank">https://t.me/grupoumbraosm</a><br>
+    Esses arquivos foram verificados pela comunidade OSM Brasil.
+  </footer>
 
-<header>
-  <i class="fa-solid fa-map-location-dot"></i> Consulta Overpass Turbo
-</header>
+  <script>
+    // Substitua isso por um JSON estático gerado via script do servidor, se necessário.
+    const files = [
+      "pasta1/arquivo1.zip",
+      "pasta2/outro.zip",
+      "pasta3/censo_faces.zip"
+      // Adicione mais arquivos conforme necessário
+    ];
 
-<main>
-  <div id="folders">
-    <!-- Começa vazio -->
-  </div>
+    const fileList = document.getElementById('fileList');
 
-  <div id="files">
-    <p>Selecione uma pasta para ver os arquivos</p>
-  </div>
-</main>
-
-<footer>
-  Projeto desenvolvido pelo GT de Importação da UMBRAOSM - União dos Mapeadores Brasileiros do OpenStreetMap.<br>
-  Contato por E-mail:contato@umbraosm.com.br
-</footer>
-
-<script>
-  const owner = 'mapaslivre';
-  const repo = 'overpass-exemplos';
-  let allFiles = [];
-
-  async function fetchFolders() {
-    const foldersDiv = document.getElementById('folders');
-    foldersDiv.innerHTML = '';
-
-    try {
-      const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/`);
-      const data = await response.json();
-
-      foldersDiv.innerHTML = '';
-
-      data
-        .filter(item => item.type === 'dir' && item.name !== 'docs')
-        .forEach(folder => {
-          const div = document.createElement('div');
-          div.className = 'folder';
-          div.innerHTML = `<i class="fa-solid fa-folder"></i> ${folder.name}`;
-          div.onclick = () => fetchFiles(folder.path);
-          foldersDiv.appendChild(div);
+    function renderList(filter = "") {
+      fileList.innerHTML = "";
+      files
+        .filter(f => f.toLowerCase().includes(filter.toLowerCase()))
+        .forEach(file => {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.href = "../" + file;
+          a.textContent = file;
+          a.target = "_blank";
+          li.appendChild(a);
+          fileList.appendChild(li);
         });
-    } catch (error) {
-      foldersDiv.innerHTML = 'Erro ao carregar pastas.';
-      console.error(error);
     }
-  }
 
-  async function fetchFiles(folderPath) {
-    const filesDiv = document.getElementById('files');
-    filesDiv.innerHTML = '<p>Carregando arquivos...</p>';
-
-    try {
-      const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${folderPath}`);
-      const data = await response.json();
-
-      allFiles = data.filter(item => item.type === 'file');
-
-      filesDiv.innerHTML = `
-        <h2><i class="fa-solid fa-folder-open"></i> ${folderPath}</h2>
-        <input type="text" id="search" placeholder="Buscar arquivos..." oninput="filterFiles()">
-        <div id="fileList"></div>
-      `;
-
-      renderFiles(allFiles);
-
-    } catch (error) {
-      filesDiv.innerHTML = 'Erro ao carregar arquivos.';
-      console.error(error);
+    function filterFiles() {
+      const query = document.getElementById('search').value;
+      renderList(query);
     }
-  }
 
-  function renderFiles(files) {
-    const fileListDiv = document.getElementById('fileList');
-    fileListDiv.innerHTML = '';
-
-    files.forEach(file => {
-      const div = document.createElement('div');
-      div.className = 'file';
-      div.innerHTML = `
-        <i class="fa-solid fa-file"></i> 
-        <a href="${file.download_url}" target="_blank" download>${file.name}</a>
-      `;
-      fileListDiv.appendChild(div);
-    });
-  }
-
-  function filterFiles() {
-    const search = document.getElementById('search').value.toLowerCase();
-    const filtered = allFiles.filter(file => file.name.toLowerCase().includes(search));
-    renderFiles(filtered);
-  }
-
-  fetchFolders();
-</script>
-
+    // Inicializa a lista
+    renderList();
+  </script>
 </body>
 </html>
 
