@@ -4,14 +4,39 @@
   <meta charset="UTF-8">
   <title>FACES CENSO-2022</title>
   <style>
-    body { font-family: sans-serif; margin: 0; padding: 0; }
-    header { background: #004466; color: white; padding: 1em; text-align: center; }
-    main { padding: 1em; }
-    h2 { margin-top: 2em; }
-    ul { padding-left: 1em; }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    header {
+      background-color: #004466;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+    main {
+      flex: 1;
+      padding: 1em;
+    }
+    input[type="text"] {
+      padding: 0.5em;
+      width: 100%;
+      max-width: 400px;
+      margin-bottom: 1em;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li {
+      margin: 0.5em 0;
+    }
     footer {
-      margin-top: 2em;
-      background: #f2f2f2;
+      background-color: #f1f1f1;
       padding: 1em;
       font-size: 0.9em;
       text-align: center;
@@ -23,33 +48,67 @@
     <h1>FACES CENSO-2022</h1>
   </header>
   <main>
-    <h2>Pastas disponíveis:</h2>
-    <ul id="listaPastas"><li>Carregando...</li></ul>
+    <h2>Estados disponíveis:</h2>
+    <ul id="estadoList"></ul>
+
+    <h2>Pesquisar arquivos .geojson:</h2>
+    <input type="text" id="search" placeholder="Digite parte do nome do arquivo..." onkeyup="filterFiles()">
+    <ul id="fileList"></ul>
   </main>
   <footer>
     Projeto desenvolvido pelo GT de Importação da UMBRAOSM - União dos Mapeadores Brasileiros do OpenStreetMap.<br>
-    Contato: <a href="mailto:contato@umbraosm.com.br">contato@umbraosm.com.br</a> - 
-    Website: <a href="https://www.umbraosm.com.br" target="_blank">umbraosm.com.br</a> - 
-    Telegram: <a href="https://t.me/grupoumbraosm" target="_blank">t.me/grupoumbraosm</a><br>
+    Contato por E-mail: <a href="mailto:contato@umbraosm.com.br">contato@umbraosm.com.br</a> - 
+    Website: <a href="https://www.umbraosm.com.br" target="_blank">www.umbraosm.com.br</a> - 
+    Grupo do Telegram: <a href="https://t.me/grupoumbraosm" target="_blank">https://t.me/grupoumbraosm</a><br>
     Esses arquivos foram verificados pela comunidade OSM Brasil.
   </footer>
 
   <script>
-    fetch('pastas.json')
-      .then(res => res.json())
-      .then(pastas => {
-        const ul = document.getElementById('listaPastas');
-        ul.innerHTML = "";
-        pastas.forEach(pasta => {
-          const li = document.createElement('li');
-          li.textContent = pasta;
-          ul.appendChild(li);
+    // Lista dos estados
+    const estados = ["AC", "AL", "AM", "AP", "BA", "CE", "DF", "ES", "GO", "MA", "MG",
+                     "MS", "MT", "PA", "PB", "PE", "PI", "PR", "RJ", "RN", "RO", "RR",
+                     "RS", "SC", "SE", "SP", "TO"];
+
+    // Mostra os estados como lista
+    const estadoList = document.getElementById("estadoList");
+    estados.forEach(uf => {
+      const li = document.createElement("li");
+      li.textContent = uf;
+      estadoList.appendChild(li);
+    });
+
+    // Lista de arquivos .geojson (exemplo, pois HTML puro não lê pasta automaticamente)
+    const arquivosGeojson = [
+      "AC/limites.geojson",
+      "AL/distritos.geojson",
+      "AM/faces.geojson",
+      "SP/sao_paulo_faces.geojson",
+      "PA/belem_setores.geojson"
+      // Adicione todos os arquivos aqui manualmente ou use script para gerar
+    ];
+
+    function renderList(filter = "") {
+      const fileList = document.getElementById('fileList');
+      fileList.innerHTML = "";
+      arquivosGeojson
+        .filter(f => f.toLowerCase().includes(filter.toLowerCase()))
+        .forEach(file => {
+          const li = document.createElement("li");
+          const a = document.createElement("a");
+          a.href = "../" + file;
+          a.textContent = file;
+          a.target = "_blank";
+          li.appendChild(a);
+          fileList.appendChild(li);
         });
-      })
-      .catch(err => {
-        console.error(err);
-        document.getElementById('listaPastas').innerHTML = "<li>Erro ao carregar pastas</li>";
-      });
+    }
+
+    function filterFiles() {
+      const query = document.getElementById('search').value;
+      renderList(query);
+    }
+
+    renderList(); // inicializa lista
   </script>
 </body>
 </html>
