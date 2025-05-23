@@ -1,0 +1,4427 @@
+{
+  "type": "FeatureCollection",
+  "source": "Faces de Logradouros 2022 do IBGE",
+  "generator": "CSV-Faces_Logradouros2GeoJSON.lua 1.2 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T11:57:36-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Travessa Espírito Santo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951954,2.05431],
+            [-50.7950017,2.0548367]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q70",
+      "highway": "residential",
+      "name": "Travessa Espírito Santo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7949497,2.0549347],
+            [-50.7949167,2.0553095],
+            [-50.7948975,2.0556664]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q43",
+      "highway": "residential",
+      "name": "Travessa Espírito Santo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7949592,2.0556711],
+            [-50.795021,2.0549965],
+            [-50.7950638,2.0548397],
+            [-50.7952539,2.054316]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7941202,2.0553461],
+            [-50.7931486,2.0537251]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Avenida Veiga Cabral"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950017,2.0548367],
+            [-50.7941202,2.0553461]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7937417,2.0533898],
+            [-50.7931486,2.0537251]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Travessa Topógrafo Manances de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7939784,2.0538455],
+            [-50.7937417,2.0533898]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Travessa Topógrafo Manances de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7940466,2.0538011],
+            [-50.7938138,2.0533545]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7938138,2.0533545],
+            [-50.7940453,2.053222]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7931157,2.0536456],
+            [-50.7927977,2.0531208],
+            [-50.7924886,2.0526273],
+            [-50.7923986,2.0524768]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Travessa Barão Rio Branco"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7918705,2.0516203],
+            [-50.7920368,2.051511],
+            [-50.7920245,2.0511401],
+            [-50.7919646,2.0501275]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7919646,2.0501275],
+            [-50.7924198,2.0501008]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "18",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7939987,2.0531616],
+            [-50.7931157,2.0536456]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "19",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7923986,2.0524768],
+            [-50.7926275,2.0523386],
+            [-50.7927522,2.0523636],
+            [-50.7929138,2.0522835]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "20",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7923726,2.0524345],
+            [-50.7926196,2.0522979],
+            [-50.7927444,2.0523281],
+            [-50.7928941,2.0522493]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "21",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7918705,2.0516203],
+            [-50.7921716,2.0521311],
+            [-50.7923726,2.0524345]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "24",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7924384,2.0505876],
+            [-50.7924198,2.0501008]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "25",
+      "CD_SETOR-QUADRA": "160010505000001P-1",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7925126,2.0505785],
+            [-50.7925055,2.0500373]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q74",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7906397,2.0559819],
+            [-50.7909229,2.055923],
+            [-50.7910465,2.0558993],
+            [-50.79117,2.055923]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q72",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.791189,2.055885],
+            [-50.7910797,2.0558708]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q72",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7910797,2.0558708],
+            [-50.7910881,2.0556062]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q73",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7910227,2.0558613],
+            [-50.7908944,2.0558779],
+            [-50.7906361,2.0559259]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q73",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7910453,2.0556062],
+            [-50.7910227,2.0558613]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000001P-2",
+      "QUADRA": "Q73",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7905985,2.055592],
+            [-50.7910453,2.0556062]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q71",
+      "highway": "residential",
+      "name": "Rua Eugênio de Albuquerque"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7906874,2.0551527],
+            [-50.7907967,2.0555401]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q71",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7907967,2.0555401],
+            [-50.7906162,2.0555401]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q72",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7910881,2.0556062],
+            [-50.7915249,2.0554812],
+            [-50.7918563,2.05535]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q72",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7920856,2.0560119],
+            [-50.7918563,2.05535]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q70",
+      "highway": "residential",
+      "name": "Avenida Veiga Cabral"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7949497,2.0549347],
+            [-50.79394,2.0555382],
+            [-50.7937469,2.0556055],
+            [-50.7936026,2.0556475],
+            [-50.7934031,2.0556712],
+            [-50.7921303,2.0558736]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q70",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7921673,2.0560043],
+            [-50.7921303,2.0558736]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000001P-3",
+      "QUADRA": "Q71",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7905746,2.0551767],
+            [-50.7906874,2.0551527]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-4",
+      "QUADRA": "Q69",
+      "highway": "residential",
+      "name": "Rua Epifânio da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7918321,2.0552678],
+            [-50.7914714,2.0554382],
+            [-50.7910805,2.0555559],
+            [-50.790875,2.0555422]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-4",
+      "QUADRA": "Q69",
+      "highway": "residential",
+      "name": "Rua Eugênio de Albuquerque"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.790875,2.0555422],
+            [-50.7907587,2.0551267]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-4",
+      "QUADRA": "Q69",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7907587,2.0551267],
+            [-50.7912196,2.0548084],
+            [-50.7915965,2.0546538]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-4",
+      "QUADRA": "Q69",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7918321,2.0552678],
+            [-50.7915965,2.0546538]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-5",
+      "QUADRA": "Q68",
+      "highway": "residential",
+      "name": "Avenida Veiga Cabral"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7940495,2.055401],
+            [-50.7936972,2.0555644],
+            [-50.7921194,2.055805]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-5",
+      "QUADRA": "Q68",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7921194,2.055805],
+            [-50.7919133,2.0552455],
+            [-50.7916805,2.0545851]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-5",
+      "QUADRA": "Q68",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7916805,2.0545851],
+            [-50.7922839,2.0542287],
+            [-50.7930868,2.0537679]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-5",
+      "QUADRA": "Q68",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7940495,2.055401],
+            [-50.7930868,2.0537679]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7930346,2.0537061],
+            [-50.791652,2.0545186]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.791652,2.0545186],
+            [-50.7912861,2.0535683],
+            [-50.7908015,2.052257]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7911816,2.0520384],
+            [-50.7908015,2.052257]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Travessa da Garagem"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7921197,2.0535715],
+            [-50.7911816,2.0520384]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Travessa da Garagem"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7921883,2.0535413],
+            [-50.7912481,2.0520004]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7912481,2.0520004],
+            [-50.7917755,2.0516726]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000001P-6",
+      "QUADRA": "Q61",
+      "highway": "residential",
+      "name": "Rua Senador Lemos"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7930346,2.0537061],
+            [-50.7925262,2.0528224],
+            [-50.7917755,2.0516726]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000001P-7",
+      "QUADRA": "Q63",
+      "highway": "residential",
+      "name": "Avenida Alves da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915759,2.0545613],
+            [-50.7912244,2.0547276]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000001P-7",
+      "QUADRA": "Q63",
+      "highway": "residential",
+      "name": "Travessa São Pedro"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7912244,2.0547276],
+            [-50.7907954,2.053609],
+            [-50.7903454,2.0524993]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000001P-7",
+      "QUADRA": "Q63",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7903454,2.0524993],
+            [-50.790716,2.052314]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000001P-7",
+      "QUADRA": "Q63",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915759,2.0545613],
+            [-50.7908407,2.0526075],
+            [-50.790716,2.052314]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q93",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859175,2.0539727],
+            [-50.7853144,2.0540936],
+            [-50.7838214,2.0544049],
+            [-50.7836844,2.054451],
+            [-50.7835341,2.0545399],
+            [-50.7833634,2.0546602],
+            [-50.7832066,2.054741],
+            [-50.7830403,2.0547885]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q93",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7860972,2.0546655],
+            [-50.7860669,2.0544845],
+            [-50.7859175,2.0539727]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861449,2.0546332],
+            [-50.7861096,2.0544654],
+            [-50.7860479,2.0542136],
+            [-50.7859766,2.0539523]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859766,2.0539523],
+            [-50.7866933,2.0537914],
+            [-50.7871796,2.0537098],
+            [-50.7873542,2.0536751],
+            [-50.788214,2.0535421]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa Ludugério de Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7891378,2.0551164],
+            [-50.7883169,2.0539023],
+            [-50.7882539,2.0536879],
+            [-50.788214,2.0535421]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa Ludugério de Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7892056,2.0550764],
+            [-50.7891378,2.0551164]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa Ludugério de Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7892056,2.0550764],
+            [-50.7883799,2.0538891],
+            [-50.7883459,2.0538045]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7891831,2.0529898],
+            [-50.7893726,2.05288],
+            [-50.7894854,2.0528176],
+            [-50.7896469,2.0527463],
+            [-50.7900413,2.0526228],
+            [-50.7902931,2.0525468]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa São Pedro"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7911478,2.0547767],
+            [-50.7902931,2.0525468]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "15",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Rua Álvares da Cunha"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7911478,2.0547767],
+            [-50.7907185,2.0550808],
+            [-50.7905449,2.0551315]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "16",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861449,2.0546332],
+            [-50.7863421,2.0546256],
+            [-50.7863528,2.0548163],
+            [-50.7863529,2.0550342]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "17",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7883459,2.0538045],
+            [-50.7888175,2.0535055],
+            [-50.7892962,2.0532276]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "18",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q95",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7863226,2.0550295],
+            [-50.7863244,2.0548211],
+            [-50.786318,2.054652],
+            [-50.7861517,2.0546611]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "20",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q65",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7892962,2.0532276],
+            [-50.7891831,2.0529898]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "21",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q66",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7892509,2.0532084],
+            [-50.789154,2.0530137]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "22",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q66",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.789154,2.0530137],
+            [-50.7886137,2.0533425],
+            [-50.78828,2.0535348]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "23",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q66",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.78828,2.0535348],
+            [-50.7883056,2.0536664],
+            [-50.7883366,2.0537707]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "24",
+      "CD_SETOR-QUADRA": "160010505000002P-1",
+      "QUADRA": "Q66",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7892509,2.0532084],
+            [-50.7887873,2.0534882],
+            [-50.7883366,2.0537707]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q82",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7840109,2.0512355],
+            [-50.7823181,2.0514734],
+            [-50.7820626,2.0515202]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q82",
+      "highway": "residential",
+      "name": "Travessa Tertuliano de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7840109,2.0512355],
+            [-50.7842804,2.052774]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q85",
+      "highway": "residential",
+      "name": "Travessa Tertuliano de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7843469,2.0527835],
+            [-50.7842994,2.0524699]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q85",
+      "highway": "residential",
+      "name": "Travessa Manoel Ferreira da Conceição"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861189,2.0522488],
+            [-50.785091,2.0523891],
+            [-50.7842994,2.0524699]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q85",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7865505,2.0537281],
+            [-50.7861189,2.0522488]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q85",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7865505,2.0537281],
+            [-50.7859338,2.0538668]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q85",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859338,2.0538668],
+            [-50.7858246,2.0534534]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q90",
+      "highway": "residential",
+      "name": "Travessa Osvaldo Cruz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7858797,2.0538904],
+            [-50.7857652,2.0534664]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q90",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7858797,2.0538904],
+            [-50.7853619,2.0540033]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q90",
+      "highway": "residential",
+      "name": "Travessa Santos Dumont"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7853619,2.0540033],
+            [-50.7852544,2.0536387]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q92",
+      "highway": "residential",
+      "name": "Travessa Santos Dumont"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7852877,2.0540093],
+            [-50.7851879,2.0536625]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "16",
+      "CD_SETOR-QUADRA": "160010505000002P-2",
+      "QUADRA": "Q92",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7852877,2.0540093],
+            [-50.783677,2.0543657],
+            [-50.7834537,2.054532],
+            [-50.7833587,2.0545937],
+            [-50.7832114,2.0546793],
+            [-50.7830213,2.0547553]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-3",
+      "QUADRA": "Q64",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7880536,2.0534884],
+            [-50.7866549,2.0537071]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-3",
+      "QUADRA": "Q64",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7866549,2.0537071],
+            [-50.7864926,2.053133]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-3",
+      "QUADRA": "Q64",
+      "highway": "residential",
+      "name": "Travessa Fernando Silveira Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7878629,2.0529175],
+            [-50.7864926,2.053133]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-3",
+      "QUADRA": "Q64",
+      "highway": "residential",
+      "name": "Travessa Ludugério de Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7880536,2.0534884],
+            [-50.7878629,2.0529175]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-4",
+      "QUADRA": "Q80",
+      "highway": "residential",
+      "name": "Travessa Fernando Silveira Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7878296,2.05285],
+            [-50.7864707,2.0530543]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-4",
+      "QUADRA": "Q80",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7864707,2.0530543],
+            [-50.7862189,2.0522134]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-4",
+      "QUADRA": "Q80",
+      "highway": "residential",
+      "name": "Travessa Manoel Ferreira da Conceição"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7870314,2.0520803],
+            [-50.7862189,2.0522134]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-4",
+      "QUADRA": "Q80",
+      "highway": "residential",
+      "name": "Travessa Ludugério de Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7876271,2.0522565],
+            [-50.7878296,2.05285]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-5",
+      "QUADRA": "Q88",
+      "highway": "residential",
+      "name": "Travessa Manoel Ferreira da Conceição"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861007,2.0521652],
+            [-50.7850557,2.052313],
+            [-50.7842852,2.0524177]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-5",
+      "QUADRA": "Q88",
+      "highway": "residential",
+      "name": "Travessa Tertuliano de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7842852,2.0524177],
+            [-50.7841949,2.051895]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-5",
+      "QUADRA": "Q88",
+      "highway": "residential",
+      "name": "Avenida José Barriga Aimoré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859576,2.0516385],
+            [-50.7841949,2.051895]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-5",
+      "QUADRA": "Q88",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861007,2.0521652],
+            [-50.7859576,2.0516385]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-6",
+      "QUADRA": "Q84",
+      "highway": "residential",
+      "name": "Avenida José Barriga Aimoré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859156,2.0515654],
+            [-50.7841759,2.051819]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-6",
+      "QUADRA": "Q84",
+      "highway": "residential",
+      "name": "Travessa Tertuliano de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7841759,2.051819],
+            [-50.7840714,2.0512251]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-6",
+      "QUADRA": "Q84",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7857546,2.0509734],
+            [-50.7840714,2.0512251]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-6",
+      "QUADRA": "Q84",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7859156,2.0515654],
+            [-50.7857546,2.0509734]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-7",
+      "QUADRA": "Q83",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.785739,2.0508842],
+            [-50.7840666,2.051155]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-7",
+      "QUADRA": "Q83",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7856298,2.0503046],
+            [-50.7840143,2.0507892],
+            [-50.7840666,2.051155]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-7",
+      "QUADRA": "Q83",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.785739,2.0508842],
+            [-50.7856298,2.0503046]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-8",
+      "QUADRA": "Q97",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7839943,2.0511404],
+            [-50.7826182,2.0513713],
+            [-50.7824122,2.0514035]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000002P-8",
+      "QUADRA": "Q97",
+      "highway": "residential",
+      "name": "Travessa Tertuliano de Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7839943,2.0511404],
+            [-50.7839526,2.0508177]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-8",
+      "QUADRA": "Q97",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7839526,2.0508177],
+            [-50.7838054,2.0508308],
+            [-50.7836023,2.0508634],
+            [-50.7830984,2.0509838],
+            [-50.7827774,2.0510665],
+            [-50.782608,2.051136],
+            [-50.7824702,2.0512928],
+            [-50.782406,2.0513767],
+            [-50.7824122,2.0514035]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000002P-9",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Ramal Fazenda Baraúna"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7856373,2.0502072],
+            [-50.7839634,2.0507381],
+            [-50.7838656,2.0507732],
+            [-50.7830206,2.0509687],
+            [-50.782589,2.0510885]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000002P-9",
+      "QUADRA": "Q96",
+      "highway": "residential",
+      "name": "Ramal Fazenda Baraúna"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7823081,2.0513981],
+            [-50.7823966,2.0512847],
+            [-50.782453,2.0512223],
+            [-50.7825177,2.051136],
+            [-50.7828442,2.0501487]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000002P-9",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Ramal Fazenda Baraúna"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.782589,2.0510885],
+            [-50.7827572,2.0505446],
+            [-50.7828835,2.0501573]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000002P-9",
+      "QUADRA": "Q96",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7823081,2.0513981],
+            [-50.7820546,2.0514456]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-1",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Travessa Barão do Rio Branco"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915854,2.0516536],
+            [-50.7915009,2.0501659]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-1",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915009,2.0501659],
+            [-50.7918868,2.0501378]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-1",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Travessa Barão do Rio Branco"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7919323,2.0514445],
+            [-50.7918868,2.0501378]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-1",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7919323,2.0514445],
+            [-50.7915854,2.0516536]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-2",
+      "QUADRA": "Q59",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915022,2.0517107],
+            [-50.7907719,2.0521548]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-2",
+      "QUADRA": "Q59",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7907719,2.0521548],
+            [-50.7900674,2.0502998]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-2",
+      "QUADRA": "Q59",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7914143,2.0501683],
+            [-50.7908276,2.0502095],
+            [-50.7900674,2.0502998]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-2",
+      "QUADRA": "Q59",
+      "highway": "residential",
+      "name": "Travessa Barão do Rio Branco"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915022,2.0517107],
+            [-50.7914143,2.0501683]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q78",
+      "highway": "residential",
+      "name": "Avenida Manoel Ferreira da Conceição"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7870521,2.0520021],
+            [-50.7861809,2.0521563]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q78",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7861809,2.0521563],
+            [-50.7860289,2.051629]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q78",
+      "highway": "residential",
+      "name": "Avenida José Barriga Aimoré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7876074,2.0513591],
+            [-50.7860289,2.051629]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q57",
+      "highway": "residential",
+      "name": "Avenida José Barriga Aimoré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.787604,2.0512821],
+            [-50.7860004,2.0515434]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q57",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7860004,2.0515434],
+            [-50.7858436,2.0509495]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q57",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7877726,2.0506502],
+            [-50.7858436,2.0509495]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q57",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7879674,2.0513914],
+            [-50.7877726,2.0506502]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q58",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7880529,2.0513914],
+            [-50.7878533,2.0506454]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q58",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7899622,2.0503118],
+            [-50.7878533,2.0506454]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q58",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7906757,2.0522123],
+            [-50.7899622,2.0503118]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q58",
+      "highway": "residential",
+      "name": "Avenida Cônego Domingos Maltez"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7906757,2.0522123],
+            [-50.7905639,2.052295],
+            [-50.790441,2.0523714],
+            [-50.7902829,2.0524355],
+            [-50.7895554,2.0527029],
+            [-50.7894084,2.0527697],
+            [-50.788192,2.0534682],
+            [-50.7881308,2.0534762],
+            [-50.7879333,2.052882]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000003P-3",
+      "QUADRA": "Q58",
+      "highway": "residential",
+      "name": "Rua Ludugério do Amaral Lisboa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7879333,2.052882],
+            [-50.7877096,2.0522378]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-4",
+      "QUADRA": "Q79",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7877427,2.0505704],
+            [-50.7858056,2.0508747]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-4",
+      "QUADRA": "Q79",
+      "highway": "residential",
+      "name": "Travessa Quintino Tavares Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7858056,2.0508747],
+            [-50.7856963,2.0502808]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-4",
+      "QUADRA": "Q79",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7856963,2.0502808],
+            [-50.7875018,2.0497344]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-4",
+      "QUADRA": "Q79",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7877427,2.0505704],
+            [-50.7875018,2.0497344]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-5",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.787942,2.0495216],
+            [-50.7875494,2.0496385]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-5",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7875494,2.0496385],
+            [-50.787478,2.0493626],
+            [-50.7874495,2.0492343]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-5",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Travessa Ataíde Teive"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.787942,2.0495216],
+            [-50.7878862,2.0492577],
+            [-50.7877855,2.0490427]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000003P-5",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Travessa Pedro Baião"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7878059,2.0489637],
+            [-50.7874983,2.0490617],
+            [-50.7873894,2.049221]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000003P-5",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Travessa Pedro Baião"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7877855,2.0490427],
+            [-50.7875214,2.0491189],
+            [-50.7874495,2.0492343]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Rua Desidério Antônio Coelho de Cã"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7914429,2.047218],
+            [-50.7906685,2.0472607],
+            [-50.7903311,2.0472892],
+            [-50.7899273,2.0472322]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Rua João Franklin Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7914999,2.0483488],
+            [-50.7914429,2.047218]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Rua Alcídes Farias Guimarães"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7914999,2.0483488],
+            [-50.7914073,2.0483566],
+            [-50.7910699,2.0483756]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q38",
+      "highway": "residential",
+      "name": "Travessa São José"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7909892,2.0483851],
+            [-50.7907045,2.048401]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q38",
+      "highway": "residential",
+      "name": "Travessa São José"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7909892,2.0483851],
+            [-50.7909842,2.0481447]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Travessa São José"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7910699,2.0483756],
+            [-50.791065,2.0481505]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q54",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7899296,2.0502149],
+            [-50.7897233,2.0495578]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Rua Alcídes Farias Guimarães"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915249,2.0484532],
+            [-50.7909987,2.0484611],
+            [-50.7907136,2.0484706]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Rua João Franklin Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915915,2.0500291],
+            [-50.7915249,2.0484532]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915915,2.0500291],
+            [-50.7907088,2.0501098],
+            [-50.7900316,2.0502077]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Rua Antônio Cambraia Pontes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7900316,2.0502077],
+            [-50.7898138,2.0495402]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7875018,2.0496619],
+            [-50.7873894,2.049221]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q54",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7899296,2.0502149],
+            [-50.7878153,2.0505564]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q54",
+      "highway": "residential",
+      "name": "Travessa Amaral Brasiliano"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7878153,2.0505564],
+            [-50.7875873,2.0497475]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "15",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q54",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7875873,2.0497475],
+            [-50.7879257,2.0496619],
+            [-50.7880963,2.0496502],
+            [-50.7882201,2.0496338],
+            [-50.7884235,2.0495707]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "16",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7884001,2.049538],
+            [-50.7883183,2.0495777],
+            [-50.7882178,2.0495964],
+            [-50.78815,2.0496058],
+            [-50.788122,2.0495287],
+            [-50.7880939,2.049503],
+            [-50.7880378,2.0495006],
+            [-50.7880028,2.049503]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "17",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Avenida Governador Janari Gentil Nunes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7875018,2.0496619],
+            [-50.7856399,2.0502064]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "18",
+      "CD_SETOR-QUADRA": "160010505000003P-6",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Travessa Ataíde Teive"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7880028,2.049503],
+            [-50.7879461,2.0492346],
+            [-50.7878059,2.0489637]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-7",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Avenida Fab"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7924145,2.0499815],
+            [-50.7916923,2.050029]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-7",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Rua João Franklin Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7916923,2.050029],
+            [-50.791615,2.0484442]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-7",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Rua Alcídes Farias Guimarães"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7923522,2.0484205],
+            [-50.791615,2.0484442]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-7",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7924145,2.0499815],
+            [-50.7924093,2.0493542],
+            [-50.7923998,2.0490502],
+            [-50.7923854,2.0487797],
+            [-50.7923522,2.0484205]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-8",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Rua Alcídes Farias Guimarães"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7923471,2.0483108],
+            [-50.7915759,2.0483488]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-8",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Rua João Franklin Távora"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7915759,2.0483488],
+            [-50.7915237,2.0472227]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000003P-8",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Rua Desidério Antônio Coelho de Cã"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7922917,2.0471917],
+            [-50.7915237,2.0472227]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000003P-8",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7923471,2.0483108],
+            [-50.7922917,2.0471917]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000003P-9",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7925055,2.050036],
+            [-50.7925025,2.0498056],
+            [-50.7924929,2.0494873],
+            [-50.7924764,2.0490552],
+            [-50.7924542,2.0486944],
+            [-50.7924216,2.0483277],
+            [-50.7923795,2.0471851]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000003P-9",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Rua Desidério Antônio Coelho de Cã"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950004,2.0471295],
+            [-50.7948258,2.0470791],
+            [-50.7942899,2.0470988],
+            [-50.7923795,2.0471851]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Travessa Nazaré Ferreira de Morais"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7943721,2.0430443],
+            [-50.7938969,2.0430634],
+            [-50.7929889,2.043174]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7929889,2.043174],
+            [-50.7929088,2.0424731]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua da Caesa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7937751,2.0423293],
+            [-50.7929088,2.0424731]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7937751,2.0423293],
+            [-50.7937024,2.0419535],
+            [-50.7936248,2.0416893],
+            [-50.7936418,2.0415971],
+            [-50.7935812,2.0410201],
+            [-50.7935358,2.0407498],
+            [-50.7935012,2.0405886],
+            [-50.7935644,2.0392946]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.794246,2.039337],
+            [-50.7935644,2.0392946]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942474,2.0411407],
+            [-50.794212,2.0409624],
+            [-50.794246,2.039337]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7943086,2.0411393],
+            [-50.7942705,2.0409542],
+            [-50.7943199,2.0393373]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950905,2.0393632],
+            [-50.7943199,2.0393373]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950382,2.0405627],
+            [-50.7950905,2.0393632]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Travessa Projetada"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7959324,2.0407819],
+            [-50.7950382,2.0405627]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q15",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958086,2.0394005],
+            [-50.7951608,2.0393611]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q15",
+      "highway": "residential",
+      "name": "Travessa Projetada"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7959163,2.0407342],
+            [-50.7951086,2.0405014]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q15",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951086,2.0405014],
+            [-50.7951608,2.0393611]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "15",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Rua Raimundo Pontes Tavares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958181,2.0393638],
+            [-50.7958535,2.038443]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "16",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Avenida Vicente de Moraes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7963081,2.0384443],
+            [-50.7958535,2.038443]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "17",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Travessa Cabralzinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7963054,2.038868],
+            [-50.7963081,2.0384443]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "18",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Travessa Cabralzinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7964006,2.0388649],
+            [-50.7963054,2.038868]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "19",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Travessa Cabralzinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7964006,2.0388649],
+            [-50.7963993,2.0384362]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "20",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Avenida Vicente de Moraes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.796872,2.0384394],
+            [-50.7963993,2.0384362]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "21",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Travessa Edmundo Erasmo Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.796843,2.0391902],
+            [-50.7968607,2.0391086],
+            [-50.796872,2.0384394]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "22",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q12",
+      "highway": "residential",
+      "name": "Travessa Edmundo Erasmo Oliveira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7968934,2.0392596],
+            [-50.7969247,2.0391167],
+            [-50.7969375,2.0384281]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "23",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q12",
+      "highway": "residential",
+      "name": "Avenida Vicente de Moraes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7969375,2.0384281],
+            [-50.797495,2.0384307]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "25",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Avenida Vicente de Moraes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958488,2.0383233],
+            [-50.7973725,2.038345],
+            [-50.7974678,2.0383436]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "26",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Rua Raimundo Pontes Tavares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958488,2.0383233],
+            [-50.7958298,2.0365749]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "27",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Raimundo Pontes Tavares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957568,2.036559],
+            [-50.7957663,2.0370626]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "28",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957663,2.0370626],
+            [-50.79522,2.0370626]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "29",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.79522,2.0370626],
+            [-50.7952153,2.0365866]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "30",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951226,2.0365914],
+            [-50.7951314,2.037069]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "31",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951314,2.037069],
+            [-50.7946705,2.0370643]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "32",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Avenida Ayrton Senna da Silva"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7946705,2.0370643],
+            [-50.7946737,2.0366246]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "33",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Travessa Bacabá"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7945783,2.0366311],
+            [-50.7945708,2.0370548]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "34",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7945708,2.0370548],
+            [-50.7941194,2.03705]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "35",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Rua Amapazinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7941194,2.03705],
+            [-50.7941211,2.0366521]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "36",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Rua Amapazinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7940314,2.0366549],
+            [-50.7940434,2.03705]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "37",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7940434,2.03705],
+            [-50.793559,2.0370351]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "38",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.793559,2.0370351],
+            [-50.7934924,2.0386171]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "39",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7934924,2.0386171],
+            [-50.792726,2.0385839]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "40",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.792726,2.0385839],
+            [-50.7927036,2.0383426],
+            [-50.7926219,2.0377006],
+            [-50.7925258,2.037039],
+            [-50.7924888,2.0368787],
+            [-50.7924556,2.0367456],
+            [-50.7920261,2.0355926]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "41",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q15",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958086,2.0394005],
+            [-50.7959746,2.039442],
+            [-50.7960753,2.0395836],
+            [-50.7960685,2.0396884]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "43",
+      "CD_SETOR-QUADRA": "160010505000005P-1",
+      "QUADRA": "Q10",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7958181,2.0393638],
+            [-50.7959964,2.0394148],
+            [-50.7961189,2.0395768],
+            [-50.7961094,2.0396966]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-2",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7928902,2.0424069],
+            [-50.7928078,2.0418299]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-2",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Rua da Caesa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7936863,2.0422861],
+            [-50.7932693,2.0423541],
+            [-50.7928902,2.0424069]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-2",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Rua da Caesa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7935834,2.0417152],
+            [-50.7928078,2.0418299]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-2",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7936863,2.0422861],
+            [-50.7935834,2.0417152]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-3",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Rua da Caesa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7935594,2.0416553],
+            [-50.7927981,2.0417766]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-3",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7927981,2.0417766],
+            [-50.7926648,2.0407292]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-3",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Travessa do Estádio"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7934236,2.0406468],
+            [-50.7926648,2.0407292]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-3",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7935594,2.0416553],
+            [-50.7936012,2.0415395],
+            [-50.7935036,2.0407704],
+            [-50.7934236,2.0406468]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-4",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Travessa do Estádio"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7934313,2.0405629],
+            [-50.7926664,2.0406249]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-4",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Rua Guarany"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7926664,2.0406249],
+            [-50.792732,2.0392403]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-4",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7934789,2.0392993],
+            [-50.792732,2.0392403]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-4",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7934313,2.0405629],
+            [-50.7934789,2.0392993]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-5",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.793478,2.0392071],
+            [-50.7927225,2.0391647]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-5",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Rua Guarani"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7927225,2.0391647],
+            [-50.7927415,2.0386559]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-5",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.793497,2.0386987],
+            [-50.7927415,2.0386559]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-5",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.793478,2.0392071],
+            [-50.793497,2.0386987]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-6",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942667,2.039255],
+            [-50.7935587,2.0392166]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-6",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7935587,2.0392166],
+            [-50.793592,2.0387082]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-6",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942667,2.0387557],
+            [-50.793592,2.0387082]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-6",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942667,2.039255],
+            [-50.7942667,2.0387557]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-7",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950963,2.0392882],
+            [-50.7943237,2.0392593]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-7",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7943237,2.0392593],
+            [-50.7943427,2.0387652]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-7",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.795116,2.0387997],
+            [-50.7943427,2.0387652]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-7",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7950963,2.0392882],
+            [-50.795116,2.0387997]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-8",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Avenida Antônio Pontes Sobrinho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957323,2.0392991],
+            [-50.7951599,2.0392831]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-8",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951599,2.0392831],
+            [-50.7951789,2.0387937]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-8",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957541,2.0388118],
+            [-50.7951789,2.0387937]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-8",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Rua Raimundo Pontes Tavares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957323,2.0392991],
+            [-50.7957541,2.0388118]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-9",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957637,2.0387271],
+            [-50.7952093,2.0387128]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-9",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7952093,2.0387128],
+            [-50.7952188,2.0371615]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-9",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957637,2.0371568],
+            [-50.7952188,2.0371615]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-9",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Raimundo Pontes Tavares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7957637,2.0387271],
+            [-50.7957637,2.0371568]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-10",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951123,2.0387098],
+            [-50.7943522,2.0386702]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-10",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7943522,2.0386702],
+            [-50.7944398,2.0371408]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-10",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951265,2.0371625],
+            [-50.7944398,2.0371408]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-10",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua Arlindo Eduardo Corrêa"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7951123,2.0387098],
+            [-50.7951265,2.0371625]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000005P-11",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Avenida Hildemar Maia"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942684,2.0386606],
+            [-50.7935872,2.0386226]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000005P-11",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Rua Sérgio Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7935872,2.0386226],
+            [-50.7936605,2.0371288]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "160010505000005P-11",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Rua Aírton Sena"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.794335,2.037143],
+            [-50.7936605,2.0371288]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000005P-11",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Rua Ernesto Pereira Colares"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.7942684,2.0386606],
+            [-50.794335,2.037143]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000013P-0",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Agrovila Piquiá"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.9397959,1.8678602],
+            [-50.9379369,1.8672953],
+            [-50.9374163,1.8672334],
+            [-50.9369116,1.8673811],
+            [-50.9344223,1.868599],
+            [-50.9327401,1.8693623],
+            [-50.9315013,1.8699454],
+            [-50.9303407,1.8704876],
+            [-50.9298102,1.8704639],
+            [-50.9257663,1.8700202],
+            [-50.9251129,1.8698891],
+            [-50.9244166,1.8694585],
+            [-50.9238595,1.8689435],
+            [-50.9229348,1.8681078],
+            [-50.9207266,1.8662044]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "160010505000014P-0",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Lugarejo Calafate"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.8955921,2.1515434],
+            [-50.8957885,2.1516714],
+            [-50.8960435,2.1518675],
+            [-50.8962788,2.1520784],
+            [-50.8966563,2.1523774],
+            [-50.8969015,2.1525049],
+            [-50.8973133,2.1526961],
+            [-50.8975633,2.1527991],
+            [-50.8977349,2.1529167],
+            [-50.8979506,2.1530883],
+            [-50.8981699,2.1533674],
+            [-50.8981045,2.153792]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000014P-1",
+      "QUADRA": "Q44",
+      "highway": "residential",
+      "name": "Lugarejo Calafate"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.8966127,2.1544045],
+            [-50.8972443,2.1539526],
+            [-50.8974893,2.1541405],
+            [-50.8979875,2.1538519]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "160010505000014P-1",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Lugarejo Calafate"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.8955494,2.1516215],
+            [-50.8957493,2.1517548],
+            [-50.8959994,2.151946],
+            [-50.8962298,2.1521519],
+            [-50.8966171,2.1524461],
+            [-50.8968671,2.1525784],
+            [-50.8972937,2.1527697],
+            [-50.8975143,2.1528579],
+            [-50.8976663,2.1529609],
+            [-50.8978759,2.1531278],
+            [-50.8980501,2.1534055],
+            [-50.897982,2.1537594]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010505000014P-3",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Lugarejo Calafate"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-50.8965665,2.1542603],
+            [-50.8971899,2.1538329],
+            [-50.8974948,2.1540262],
+            [-50.897982,2.1537594]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "160010515000001P-1",
+      "QUADRA": "Q77",
+      "highway": "residential",
+      "name": "Margem Direita do Rio Sucuriju"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-49.9389675,1.6801875],
+            [-49.9352181,1.6785542],
+            [-49.9352597,1.6784413],
+            [-49.9347012,1.6782037],
+            [-49.9343744,1.6781978],
+            [-49.9338456,1.6778949],
+            [-49.933899,1.6777939],
+            [-49.9326274,1.6769921],
+            [-49.9325561,1.6770871],
+            [-49.931035,1.6761131]
+         ]
+      }
+    }
+  ]
+}

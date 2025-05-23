@@ -1,0 +1,3432 @@
+{
+  "type": "FeatureCollection",
+  "source": "Faces de Logradouros 2022 do IBGE",
+  "generator": "CSV-Faces_Logradouros2GeoJSON.lua 1.2 - fidelis.assis@gmail.com",
+  "date": "2025-02-02T09:05:55-0300",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-2",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6441296,-12.1461199],
+            [-38.6438626,-12.145081],
+            [-38.6437558,-12.1447442]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-2",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6441296,-12.1461199],
+            [-38.6461769,-12.1460086],
+            [-38.6464499,-12.1459644],
+            [-38.6469615,-12.1459218],
+            [-38.6473288,-12.1459272],
+            [-38.6473419,-12.1459291],
+            [-38.6477198,-12.1460395],
+            [-38.6484955,-12.1460719]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-2",
+      "QUADRA": "Q22",
+      "highway": "residential",
+      "name": "Rodovia Municipal para Pedrão"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6484251,-12.1379555],
+            [-38.6481745,-12.1386711],
+            [-38.6469799,-12.1413362],
+            [-38.6470293,-12.142054],
+            [-38.6470948,-12.1425477],
+            [-38.6471083,-12.1429519],
+            [-38.6470022,-12.1432207],
+            [-38.6466479,-12.1437491],
+            [-38.6466332,-12.1437989],
+            [-38.646502,-12.1443778],
+            [-38.6465089,-12.1444277],
+            [-38.6465571,-12.1446151],
+            [-38.6466682,-12.1447339],
+            [-38.6472687,-12.1449863],
+            [-38.6474039,-12.1451765],
+            [-38.6478661,-12.1456489],
+            [-38.648252,-12.1458728]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-3",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6435379,-12.1451989],
+            [-38.6437528,-12.1461505]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-3",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6440282,-12.1461272],
+            [-38.6437528,-12.1461505]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-3",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6440282,-12.1461272],
+            [-38.6437775,-12.1451516]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-3",
+      "QUADRA": "Q26",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6437775,-12.1451516],
+            [-38.6435379,-12.1451989]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-4",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6430728,-12.1452917],
+            [-38.6431274,-12.1456694],
+            [-38.6432156,-12.1462027]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-4",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6436524,-12.1461598],
+            [-38.6432156,-12.1462027]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-4",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6434398,-12.1452184],
+            [-38.6436524,-12.1461598]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-4",
+      "QUADRA": "Q25",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6434398,-12.1452184],
+            [-38.6430728,-12.1452917]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-5",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6430137,-12.1449033],
+            [-38.643058,-12.1451927]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-5",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6437497,-12.1450552],
+            [-38.643058,-12.1451927]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-5",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6437497,-12.1450552],
+            [-38.6436656,-12.1447877]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Rua Érico Cristo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6424188,-12.1446052],
+            [-38.6425608,-12.1456893]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Rua Doutor José Guilherme Nogueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6430212,-12.1456336],
+            [-38.6425608,-12.1456893]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-6",
+      "QUADRA": "Q37",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6430212,-12.1456336],
+            [-38.6429149,-12.1449185]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-7",
+      "QUADRA": "Q38",
+      "highway": "residential",
+      "name": "Rua Joaquim Luna Menezes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6418662,-12.1447377],
+            [-38.6420137,-12.1457678]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-7",
+      "QUADRA": "Q38",
+      "highway": "residential",
+      "name": "Rua Doutor José Guilherme Nogueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6424617,-12.1457026],
+            [-38.6420137,-12.1457678]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-7",
+      "QUADRA": "Q38",
+      "highway": "residential",
+      "name": "Rua Érico Cristo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6423197,-12.1446185],
+            [-38.6424617,-12.1457026]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-8",
+      "QUADRA": "Q36",
+      "highway": "residential",
+      "name": "Rua Maria Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6413749,-12.1447849],
+            [-38.6414366,-12.1454066],
+            [-38.6414907,-12.1458293]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-8",
+      "QUADRA": "Q36",
+      "highway": "residential",
+      "name": "Rua Doutor José Guilherme Nogueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6419145,-12.1457806],
+            [-38.6414907,-12.1458293]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-8",
+      "QUADRA": "Q36",
+      "highway": "residential",
+      "name": "Rua Joaquim Luna Menezes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6419145,-12.1457806],
+            [-38.6417672,-12.1447519]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-9",
+      "QUADRA": "Q39",
+      "highway": "residential",
+      "name": "Rua Albertino do Rosário"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6409407,-12.1459013],
+            [-38.6408673,-12.1455086]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-9",
+      "QUADRA": "Q39",
+      "highway": "residential",
+      "name": "Rua Doutor José Guilherme Nogueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6413914,-12.1458416],
+            [-38.6409407,-12.1459013]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-9",
+      "QUADRA": "Q39",
+      "highway": "residential",
+      "name": "Rua Maria Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6413914,-12.1458416],
+            [-38.6413372,-12.1454172],
+            [-38.6412754,-12.1447948]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-10",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6404385,-12.146567],
+            [-38.6403771,-12.1464749],
+            [-38.6403324,-12.1461816],
+            [-38.6403889,-12.1458993],
+            [-38.6403988,-12.1457682],
+            [-38.6403271,-12.145593],
+            [-38.6402552,-12.1454379]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-10",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6409297,-12.1464917],
+            [-38.6404932,-12.1465561],
+            [-38.6404385,-12.146567]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-10",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Rua Albertino do Rosário"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6409297,-12.1464917],
+            [-38.640851,-12.1459653],
+            [-38.6407698,-12.1455308]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-11",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6390914,-12.1458235],
+            [-38.6389419,-12.1455128]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-11",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392152,-12.1457693],
+            [-38.6390914,-12.1458235]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-11",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392152,-12.1457693],
+            [-38.6390712,-12.1454537]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-11",
+      "QUADRA": "Q50",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6390712,-12.1454537],
+            [-38.6389419,-12.1455128]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-12",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6393067,-12.1457291],
+            [-38.639163,-12.145414]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-12",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6394316,-12.1456742],
+            [-38.6393067,-12.1457291]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-12",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6394316,-12.1456742],
+            [-38.6392926,-12.145361]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-12",
+      "QUADRA": "Q48",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392926,-12.145361],
+            [-38.639163,-12.145414]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-13",
+      "QUADRA": "Q44",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6393849,-12.1453223],
+            [-38.6395234,-12.1456347]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-13",
+      "QUADRA": "Q44",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396473,-12.1455827],
+            [-38.6395234,-12.1456347]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-13",
+      "QUADRA": "Q44",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396473,-12.1455827],
+            [-38.6395048,-12.145271]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-13",
+      "QUADRA": "Q44",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6395048,-12.145271],
+            [-38.6393849,-12.1453223]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-14",
+      "QUADRA": "Q43",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6397398,-12.1455445],
+            [-38.6395967,-12.1452316]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-14",
+      "QUADRA": "Q43",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.639877,-12.145489],
+            [-38.6397398,-12.1455445]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-14",
+      "QUADRA": "Q43",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.639877,-12.145489],
+            [-38.6397372,-12.1451714]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-14",
+      "QUADRA": "Q43",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6397372,-12.1451714],
+            [-38.6395967,-12.1452316]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-15",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6399614,-12.1460468],
+            [-38.6397807,-12.1456358]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-15",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6400912,-12.1459745],
+            [-38.6399614,-12.1460468]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-15",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6400912,-12.1459745],
+            [-38.6399174,-12.1455805]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-15",
+      "QUADRA": "Q34",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6399174,-12.1455805],
+            [-38.6397807,-12.1456358]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-16",
+      "QUADRA": "Q30",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6395649,-12.1457258],
+            [-38.6397548,-12.146133]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-16",
+      "QUADRA": "Q30",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6398707,-12.1460891],
+            [-38.6397548,-12.146133]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-16",
+      "QUADRA": "Q30",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6398707,-12.1460891],
+            [-38.6396882,-12.1456739]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-16",
+      "QUADRA": "Q30",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396882,-12.1456739],
+            [-38.6395649,-12.1457258]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-17",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6395214,-12.1462229],
+            [-38.6393474,-12.1458205]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-17",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396611,-12.1461688],
+            [-38.6395214,-12.1462229]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-17",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396611,-12.1461688],
+            [-38.639473,-12.1457653]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-17",
+      "QUADRA": "Q32",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.639473,-12.1457653],
+            [-38.6393474,-12.1458205]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-18",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392981,-12.1463038],
+            [-38.6391326,-12.1459146]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-18",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6394275,-12.1462577],
+            [-38.6392981,-12.1463038]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-18",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6394275,-12.1462577],
+            [-38.6392558,-12.1458607]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-18",
+      "QUADRA": "Q46",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392558,-12.1458607],
+            [-38.6391326,-12.1459146]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-19",
+      "QUADRA": "Q29",
+      "highway": "tertiary",
+      "name": "Rodovia BA-503",
+      "ref": "BA-503"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6401252,-12.146829],
+            [-38.6342588,-12.1461319]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-19",
+      "QUADRA": "Q29",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6403505,-12.1466152],
+            [-38.6401252,-12.146829]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-19",
+      "QUADRA": "Q29",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6403505,-12.1466152],
+            [-38.6402986,-12.1465375],
+            [-38.6402076,-12.1465158],
+            [-38.6399247,-12.1464617],
+            [-38.6396174,-12.1464201],
+            [-38.6394717,-12.1464165],
+            [-38.6392706,-12.1464167],
+            [-38.6391524,-12.1464104],
+            [-38.6391349,-12.1464062],
+            [-38.6386895,-12.1462089],
+            [-38.6380014,-12.1459443],
+            [-38.6376146,-12.1458121],
+            [-38.637297,-12.1456843],
+            [-38.6370231,-12.1455619],
+            [-38.636638,-12.1453538],
+            [-38.6362854,-12.1451495],
+            [-38.6358912,-12.1449657],
+            [-38.6357144,-12.1448487],
+            [-38.6355563,-12.1448063],
+            [-38.6353675,-12.1447656],
+            [-38.6352284,-12.14474]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-20",
+      "QUADRA": "Q28",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6425409,-12.1462889],
+            [-38.6410288,-12.1464782]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-20",
+      "QUADRA": "Q28",
+      "highway": "residential",
+      "name": "Rua Érico Cristo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6425409,-12.1462889],
+            [-38.6424748,-12.1458017]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-20",
+      "QUADRA": "Q28",
+      "highway": "residential",
+      "name": "Rua Doutor José Guilherme Nogueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6424748,-12.1458017],
+            [-38.6419785,-12.1458739],
+            [-38.6414535,-12.1459342],
+            [-38.6409573,-12.1459999]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-20",
+      "QUADRA": "Q28",
+      "highway": "residential",
+      "name": "Rua Albertino do Rosário"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6410288,-12.1464782],
+            [-38.6409573,-12.1459999]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-21",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6431161,-12.1462142],
+            [-38.6426401,-12.1462762]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-21",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Praça Deputado Henrique Brito"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6431161,-12.1462142],
+            [-38.6430365,-12.1457324]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-21",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua Érico Cristo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6426401,-12.1462762],
+            [-38.6425739,-12.1457885]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "292410805000001P-21",
+      "QUADRA": "Q27",
+      "highway": "residential",
+      "name": "Rua Érico Cristo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6430365,-12.1457324],
+            [-38.6425739,-12.1457885]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-22",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6387465,-12.1461248],
+            [-38.6391584,-12.1463072],
+            [-38.6391931,-12.1463124]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-22",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6384726,-12.1455046],
+            [-38.6387465,-12.1461248]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-22",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6388296,-12.1455115],
+            [-38.6387696,-12.1455024],
+            [-38.6385934,-12.1454921],
+            [-38.6384726,-12.1455046]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-22",
+      "QUADRA": "Q49",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6391931,-12.1463124],
+            [-38.6390217,-12.1459093],
+            [-38.6388296,-12.1455115]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-23",
+      "QUADRA": "Q52",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6386141,-12.1460727],
+            [-38.6380574,-12.1458587]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-23",
+      "QUADRA": "Q52",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6379162,-12.1444921],
+            [-38.6386141,-12.1460727]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-23",
+      "QUADRA": "Q52",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6375728,-12.1445593],
+            [-38.6379162,-12.1444921]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-23",
+      "QUADRA": "Q52",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6380574,-12.1458587],
+            [-38.6375728,-12.1445593]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-24",
+      "QUADRA": "Q55",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6384236,-12.1453932],
+            [-38.6380166,-12.1444718]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-24",
+      "QUADRA": "Q55",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6387763,-12.1454035],
+            [-38.6385964,-12.1453921],
+            [-38.6384236,-12.1453932]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-24",
+      "QUADRA": "Q55",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6383285,-12.1444072],
+            [-38.6387757,-12.1454026]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-24",
+      "QUADRA": "Q55",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6380166,-12.1444718],
+            [-38.6383285,-12.1444072]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-25",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.638291,-12.1443129],
+            [-38.6379359,-12.1443863],
+            [-38.6374957,-12.1444725],
+            [-38.6374742,-12.1444824],
+            [-38.63746,-12.1445005]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-25",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.63746,-12.1445005],
+            [-38.6374558,-12.1445196],
+            [-38.6374585,-12.144539],
+            [-38.6379347,-12.1458158]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-26",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6379347,-12.1458158],
+            [-38.6376507,-12.1457188],
+            [-38.637337,-12.1455926],
+            [-38.6370656,-12.1454714],
+            [-38.6366945,-12.1452707],
+            [-38.6363251,-12.1450577],
+            [-38.6359369,-12.1448766],
+            [-38.6357704,-12.1447659],
+            [-38.6357482,-12.1447543],
+            [-38.635581,-12.1447094],
+            [-38.6353936,-12.1446683],
+            [-38.6353103,-12.1446534]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-27",
+      "QUADRA": "Q41",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6436656,-12.1447877],
+            [-38.6434745,-12.1444358],
+            [-38.643078,-12.1437308],
+            [-38.6430733,-12.1437194],
+            [-38.6426863,-12.1422923]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-27",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6435618,-12.1443871],
+            [-38.6431682,-12.1436872],
+            [-38.6427828,-12.1422661]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-27",
+      "QUADRA": "Q3",
+      "highway": "residential",
+      "name": "Rua da Caixa da Água"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6437558,-12.1447442],
+            [-38.6435618,-12.1443871]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-28",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6402519,-12.1464235],
+            [-38.6399394,-12.1463628],
+            [-38.6396281,-12.1463206],
+            [-38.6395518,-12.1463184],
+            [-38.6397469,-12.1462429]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-28",
+      "QUADRA": "Q31",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6402519,-12.1464235],
+            [-38.6401278,-12.1460686],
+            [-38.6399621,-12.1461609],
+            [-38.6397469,-12.1462429]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-29",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6385161,-12.1442209],
+            [-38.6390299,-12.1453626]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-29",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6383858,-12.144281],
+            [-38.6385161,-12.1442209]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-29",
+      "QUADRA": "Q53",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6390299,-12.1453626],
+            [-38.6388995,-12.1454222],
+            [-38.6384039,-12.1443313],
+            [-38.6383858,-12.144281]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-30",
+      "QUADRA": "Q51",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6391217,-12.1453229],
+            [-38.6386079,-12.1441812]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-30",
+      "QUADRA": "Q51",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392514,-12.1452698],
+            [-38.6391217,-12.1453229]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-30",
+      "QUADRA": "Q51",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6387272,-12.1441332],
+            [-38.6392514,-12.1452698]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-30",
+      "QUADRA": "Q51",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6386079,-12.1441812],
+            [-38.6387272,-12.1441332]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-31",
+      "QUADRA": "Q47",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6388195,-12.1440947],
+            [-38.6389447,-12.144041]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-31",
+      "QUADRA": "Q47",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6389447,-12.144041],
+            [-38.6394633,-12.14518]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-31",
+      "QUADRA": "Q47",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6394633,-12.14518],
+            [-38.6393437,-12.1452312],
+            [-38.6388195,-12.1440947]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-32",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6395552,-12.1451406],
+            [-38.6390365,-12.1440013]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-32",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6396965,-12.1450801],
+            [-38.6395552,-12.1451406]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-32",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6391805,-12.1439386],
+            [-38.6396965,-12.1450801]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-32",
+      "QUADRA": "Q1",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6390365,-12.1440013],
+            [-38.6391805,-12.1439386]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-33",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6395835,-12.1442455],
+            [-38.6399426,-12.1449741]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-33",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6399426,-12.1449741],
+            [-38.6397884,-12.1450406]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-33",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6397884,-12.1450406],
+            [-38.6392514,-12.1438525],
+            [-38.6392432,-12.1438399],
+            [-38.6392312,-12.14383],
+            [-38.6392236,-12.143827]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-34",
+      "QUADRA": "Q45",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6392236,-12.143827],
+            [-38.6392166,-12.1438242],
+            [-38.6392003,-12.1438234],
+            [-38.6391858,-12.1438272],
+            [-38.6387334,-12.1440228],
+            [-38.6385223,-12.144108],
+            [-38.6383023,-12.1442094],
+            [-38.6382892,-12.1442181],
+            [-38.6382796,-12.1442304],
+            [-38.6382742,-12.144245],
+            [-38.6382735,-12.1442607],
+            [-38.6382761,-12.1442717],
+            [-38.638291,-12.1443129]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-35",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6400369,-12.1449392],
+            [-38.6396732,-12.1442013]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-36",
+      "QUADRA": "Q40",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.640446,-12.1452453],
+            [-38.6403017,-12.1449389],
+            [-38.6402939,-12.1449272],
+            [-38.6402832,-12.144918],
+            [-38.6402704,-12.1449122],
+            [-38.6402124,-12.1448953],
+            [-38.6401983,-12.1448934],
+            [-38.6401842,-12.1448954],
+            [-38.6400369,-12.1449392]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-37",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6401986,-12.1449955],
+            [-38.6402208,-12.1450019],
+            [-38.6403531,-12.1452827]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-37",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6400788,-12.1450311],
+            [-38.6401986,-12.1449955]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-37",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6402144,-12.1453466],
+            [-38.6400788,-12.1450311]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-37",
+      "QUADRA": "Q35",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6403531,-12.1452827],
+            [-38.6402144,-12.1453466]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "292410805000001P-37",
+      "QUADRA": "Q24",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6402552,-12.1454379],
+            [-38.6404384,-12.1453535],
+            [-38.6406101,-12.145295],
+            [-38.6407016,-12.1453396],
+            [-38.6407698,-12.1455308]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-38",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6399845,-12.1450649],
+            [-38.6401229,-12.1453868]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-38",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6398291,-12.145132],
+            [-38.6399845,-12.1450649]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-38",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6399695,-12.1454509],
+            [-38.6398291,-12.145132]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000001P-38",
+      "QUADRA": "Q42",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6401229,-12.1453868],
+            [-38.6399695,-12.1454509]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000001P-39",
+      "QUADRA": "Q33",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6400099,-12.1455424],
+            [-38.6401636,-12.1454781]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000001P-39",
+      "QUADRA": "Q33",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.640246,-12.1461036],
+            [-38.6402011,-12.1459758],
+            [-38.6400099,-12.1455424]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000001P-39",
+      "QUADRA": "Q33",
+      "highway": "residential",
+      "name": "Parque Parque da Jaqueira"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6401636,-12.1454781],
+            [-38.6402352,-12.1456324],
+            [-38.6402985,-12.145784],
+            [-38.6402903,-12.1458824],
+            [-38.640246,-12.1461036]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-1",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Rua Álvaro Ribeiro Lima"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6525612,-12.1456642],
+            [-38.6520661,-12.145689]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-1",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Praça da Matriz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6520661,-12.145689],
+            [-38.6520755,-12.1461487],
+            [-38.6520822,-12.1462767]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-1",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Rua da Liberdade"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.652569,-12.1462678],
+            [-38.652228,-12.1462705],
+            [-38.6520822,-12.1462767]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-1",
+      "QUADRA": "Q18",
+      "highway": "residential",
+      "name": "Rua de Baixo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6525612,-12.1456642],
+            [-38.652569,-12.1462678]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-2",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Rua Álvaro Ribeiro Lima"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.651298,-12.1457679],
+            [-38.6518561,-12.1457392],
+            [-38.6519664,-12.145708]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-2",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Praça da Matriz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.651298,-12.1457679],
+            [-38.6513325,-12.1461444]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-2",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Praça da Matriz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6519746,-12.1461036],
+            [-38.6513325,-12.1461444]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-2",
+      "QUADRA": "Q19",
+      "highway": "residential",
+      "name": "Praça da Matriz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6519746,-12.1461036],
+            [-38.6519664,-12.145708]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-3",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Rua Álvaro Ribeiro Lima"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.651198,-12.1457725],
+            [-38.6509253,-12.1457838]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-3",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Travessa Dois de Julho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6509375,-12.1461753],
+            [-38.6509253,-12.1457838]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-3",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Rua Cônego Carneiro"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6512328,-12.1461516],
+            [-38.6509375,-12.1461753]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-3",
+      "QUADRA": "Q20",
+      "highway": "residential",
+      "name": "Praça da Matriz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.651198,-12.1457725],
+            [-38.6512328,-12.1461516]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-4",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Rua Álvaro Ribeiro Lima"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508254,-12.145787],
+            [-38.6496422,-12.145814],
+            [-38.649092,-12.1458918],
+            [-38.6488066,-12.1459159],
+            [-38.6484309,-12.1458903]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-4",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Rodovia Municipal para Pedrão"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6486657,-12.1460816],
+            [-38.6484309,-12.1458903]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-4",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Rua Irará"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6500107,-12.1462084],
+            [-38.6497136,-12.1461843],
+            [-38.649258,-12.1461613],
+            [-38.6489357,-12.1461362],
+            [-38.6486657,-12.1460816]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-4",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Rua Jovino Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508376,-12.1461809],
+            [-38.6500107,-12.1462084]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "292410805000002P-4",
+      "QUADRA": "Q4",
+      "highway": "residential",
+      "name": "Travessa Dois de Julho"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508376,-12.1461809],
+            [-38.6508254,-12.145787]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-5",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6473171,-12.1461054],
+            [-38.6467289,-12.1462119],
+            [-38.6464161,-12.1461956],
+            [-38.6464014,-12.1461926],
+            [-38.6461746,-12.1461088],
+            [-38.6440948,-12.1462219],
+            [-38.6437182,-12.1462538],
+            [-38.6431795,-12.1463068],
+            [-38.6426035,-12.1463818],
+            [-38.6409933,-12.1465834],
+            [-38.6405115,-12.1466544],
+            [-38.6404394,-12.1466687]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-5",
+      "QUADRA": "Q21",
+      "highway": "tertiary",
+      "name": "Rodovia BA-503",
+      "ref": "BA-503"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6473171,-12.1461054],
+            [-38.6471609,-12.1462289],
+            [-38.646909,-12.1464075],
+            [-38.6466636,-12.1467622],
+            [-38.6462801,-12.1470862],
+            [-38.646002,-12.1473046],
+            [-38.645583,-12.1474877],
+            [-38.6441743,-12.1473677],
+            [-38.6417826,-12.147061],
+            [-38.6402522,-12.1468463]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-5",
+      "QUADRA": "Q21",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6404394,-12.1466687],
+            [-38.6402522,-12.1468463]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-6",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508004,-12.1467894],
+            [-38.649968,-12.1467907]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-6",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Renato Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6507947,-12.1464406],
+            [-38.6508004,-12.1467894]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-6",
+      "QUADRA": "Q8",
+      "highway": "residential",
+      "name": "Rua Jovino Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6507947,-12.1464406],
+            [-38.650508,-12.1464405],
+            [-38.6502174,-12.1463828],
+            [-38.6500225,-12.1463156]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-7",
+      "QUADRA": "Q17",
+      "highway": "residential",
+      "name": "Rua Cônego Carneiro"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6521821,-12.1463725],
+            [-38.6508947,-12.1464386]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-7",
+      "QUADRA": "Q17",
+      "highway": "residential",
+      "name": "Rua Renato Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508947,-12.1464386],
+            [-38.6509004,-12.1467871]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-7",
+      "QUADRA": "Q17",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6522082,-12.146732],
+            [-38.6509004,-12.1467871]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-7",
+      "QUADRA": "Q17",
+      "highway": "residential"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6522082,-12.146732],
+            [-38.6521821,-12.1463725]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-8",
+      "QUADRA": "Q7",
+      "highway": "residential",
+      "name": "Rua da Liberdade"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6530556,-12.1463908],
+            [-38.6526185,-12.1463674],
+            [-38.6522821,-12.14637]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-8",
+      "QUADRA": "Q7",
+      "highway": "residential"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6522821,-12.14637],
+            [-38.6523078,-12.1467226]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-8",
+      "QUADRA": "Q7",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6530556,-12.1463908],
+            [-38.6529358,-12.1464831],
+            [-38.6526914,-12.146628],
+            [-38.6524798,-12.1466976],
+            [-38.6523078,-12.1467226]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Estrada Para Irará"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6567832,-12.1494653],
+            [-38.6583746,-12.1486939],
+            [-38.6577535,-12.1483346],
+            [-38.6572092,-12.1480273],
+            [-38.6564602,-12.1476626],
+            [-38.6560138,-12.1474092]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Estrada Para Irará"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6560138,-12.1474092],
+            [-38.6556623,-12.1472029],
+            [-38.6547032,-12.146709],
+            [-38.6541721,-12.1463821],
+            [-38.6538225,-12.1462581],
+            [-38.6532148,-12.1463945]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6532148,-12.1463945],
+            [-38.6529944,-12.1465642],
+            [-38.6527377,-12.1467168],
+            [-38.6525069,-12.146794],
+            [-38.652269,-12.1468293]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.652269,-12.1468293],
+            [-38.6509019,-12.1468871]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Renato Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6509081,-12.1473337],
+            [-38.6509019,-12.1468871]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6516355,-12.1472913],
+            [-38.6513579,-12.1473046],
+            [-38.6509081,-12.1473337]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6516355,-12.1472913],
+            [-38.6516403,-12.1473912]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6516403,-12.1473912],
+            [-38.6514164,-12.1474019]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "9",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6514164,-12.1474019],
+            [-38.6514646,-12.1478592]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "10",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.65185,-12.1478415],
+            [-38.6514646,-12.1478592]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "11",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6518546,-12.1479414],
+            [-38.6509464,-12.1479831]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "12",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6509861,-12.1485263],
+            [-38.6509464,-12.1479831]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "13",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua Vereador Vereador Amadeu Araújo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6520927,-12.1484824],
+            [-38.6509861,-12.1485263]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "14",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q11",
+      "highway": "residential",
+      "name": "Rua Vereador Vereador Amadeu Araújo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6520967,-12.1485823],
+            [-38.6509417,-12.1486282],
+            [-38.6509184,-12.1486234]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "15",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q11",
+      "highway": "residential",
+      "name": "Rua Tiradentes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6509184,-12.1486234],
+            [-38.6507572,-12.1485475],
+            [-38.6507432,-12.1485375],
+            [-38.6507333,-12.1485234],
+            [-38.6502097,-12.1474058],
+            [-38.6499599,-12.1468831],
+            [-38.6498607,-12.1468445],
+            [-38.6490143,-12.1462831],
+            [-38.6489126,-12.1462336]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "16",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Rua da Palestina"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6469557,-12.1465157],
+            [-38.647343,-12.1462554],
+            [-38.6473932,-12.14624],
+            [-38.6476348,-12.1462017],
+            [-38.6480473,-12.1462207],
+            [-38.6486466,-12.1464002],
+            [-38.6491163,-12.1466607],
+            [-38.6494647,-12.1471802],
+            [-38.6496126,-12.1477201],
+            [-38.6496626,-12.1483586],
+            [-38.6497888,-12.1489472],
+            [-38.6497662,-12.1490299],
+            [-38.6497763,-12.1491144],
+            [-38.649838,-12.1501408],
+            [-38.64996,-12.1505586],
+            [-38.6502605,-12.1509261],
+            [-38.6505904,-12.1511703],
+            [-38.651141,-12.1514124],
+            [-38.6516804,-12.1514948],
+            [-38.6526332,-12.1513927],
+            [-38.6531868,-12.1512321],
+            [-38.6567832,-12.1494653]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "17",
+      "CD_SETOR-QUADRA": "292410805000002P-9",
+      "QUADRA": "Q6",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.65185,-12.1478415],
+            [-38.6518546,-12.1479414]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-10",
+      "QUADRA": "Q16",
+      "highway": "residential",
+      "name": "Rua Nazaré"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508019,-12.1468894],
+            [-38.6500755,-12.146893]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-10",
+      "QUADRA": "Q16",
+      "highway": "residential",
+      "name": "Rua Tiradentes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6502889,-12.1473397],
+            [-38.6500755,-12.146893]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-10",
+      "QUADRA": "Q16",
+      "highway": "residential",
+      "name": "Travessa Presidente Médice"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508082,-12.1473421],
+            [-38.6504926,-12.1473757],
+            [-38.6502889,-12.1473397]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-10",
+      "QUADRA": "Q16",
+      "highway": "residential",
+      "name": "Rua Renato Valverde"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508082,-12.1473421],
+            [-38.6508019,-12.1468894]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-11",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Travessa Presidente Médice"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508121,-12.1474422],
+            [-38.6504962,-12.1474759],
+            [-38.6504822,-12.1474754],
+            [-38.6503411,-12.1474505]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-11",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Rua Tiradentes"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508836,-12.1484965],
+            [-38.6508162,-12.1484647],
+            [-38.6503411,-12.1474505]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-11",
+      "QUADRA": "Q9",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6508836,-12.1484965],
+            [-38.650843,-12.1479391],
+            [-38.6508121,-12.1474422]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-12",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6513164,-12.1474075],
+            [-38.6509118,-12.1474336]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-12",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6509397,-12.1478833],
+            [-38.6509118,-12.1474336]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "3",
+      "CD_SETOR-QUADRA": "292410805000002P-12",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6513645,-12.1478638],
+            [-38.6509397,-12.1478833]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "4",
+      "CD_SETOR-QUADRA": "292410805000002P-12",
+      "QUADRA": "Q14",
+      "highway": "residential",
+      "name": "Praça Maria da Luz"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6513164,-12.1474075],
+            [-38.6513645,-12.1478638]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "1",
+      "CD_SETOR-QUADRA": "292410805000002P-16",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6471984,-12.1460253],
+            [-38.6469625,-12.1460218],
+            [-38.6464602,-12.1460639],
+            [-38.6463778,-12.1460772]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000002P-16",
+      "QUADRA": "Q2",
+      "highway": "residential",
+      "name": "Avenida Tancredo Neves"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6471984,-12.1460253],
+            [-38.6467282,-12.1461117],
+            [-38.6464289,-12.1460961],
+            [-38.6463778,-12.1460772]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "2",
+      "CD_SETOR-QUADRA": "292410805000012P-1",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Rua Álvaro Ribeiro Lima"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6482805,-12.145775],
+            [-38.6488021,-12.145816],
+            [-38.6490794,-12.1457926],
+            [-38.649637,-12.1457141],
+            [-38.6508722,-12.1456859],
+            [-38.6512411,-12.1456707],
+            [-38.6518451,-12.1456396],
+            [-38.6520009,-12.1455935],
+            [-38.6520126,-12.1455916],
+            [-38.6526081,-12.1455617]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "5",
+      "CD_SETOR-QUADRA": "292410805000012P-1",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Rua de Baixo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6526606,-12.145611],
+            [-38.652669,-12.14627]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "6",
+      "CD_SETOR-QUADRA": "292410805000012P-1",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Rua de Baixo"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6526081,-12.1455617],
+            [-38.6526236,-12.1455634],
+            [-38.6526394,-12.1455708],
+            [-38.6526506,-12.1455818],
+            [-38.6526573,-12.1455939],
+            [-38.6526606,-12.145611]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "7",
+      "CD_SETOR-QUADRA": "292410805000012P-1",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Rua da Liberdade"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6532896,-12.1462752],
+            [-38.6531888,-12.1462978],
+            [-38.652669,-12.14627]
+         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { 
+      "CD_FACE": "8",
+      "CD_SETOR-QUADRA": "292410805000012P-1",
+      "QUADRA": "Q5",
+      "highway": "residential",
+      "name": "Rua da Liberdade"
+      },
+      "geometry": {
+         "type": "LineString",
+         "coordinates": [
+            [-38.6532896,-12.1462752],
+            [-38.6538147,-12.1461573],
+            [-38.6538424,-12.146159],
+            [-38.6542105,-12.1462897]
+         ]
+      }
+    }
+  ]
+}
