@@ -22,6 +22,10 @@
       flex: 1;
       padding: 1em;
     }
+    .section-title {
+      margin-top: 1em;
+      font-weight: bold;
+    }
     input[type="text"] {
       padding: 0.5em;
       width: 100%;
@@ -48,6 +52,12 @@
     <h1>FACES CENSO-2022</h1>
   </header>
   <main>
+    <div class="section-title">Pastas disponíveis:</div>
+    <ul id="folderList">
+      <li>Carregando...</li>
+    </ul>
+
+    <div class="section-title">Pesquisar arquivos .zip:</div>
     <input type="text" id="search" placeholder="Pesquisar arquivos .zip..." onkeyup="filterFiles()">
     <ul id="fileList">
       <!-- Arquivos serão listados aqui -->
@@ -62,17 +72,32 @@
   </footer>
 
   <script>
-    // Substitua isso por um JSON estático gerado via script do servidor, se necessário.
+    // Carrega pastas do JSON
+    fetch('pastas.json')
+      .then(response => response.json())
+      .then(pastas => {
+        const folderList = document.getElementById("folderList");
+        folderList.innerHTML = "";
+        pastas.forEach(pasta => {
+          const li = document.createElement("li");
+          li.textContent = pasta;
+          folderList.appendChild(li);
+        });
+      })
+      .catch(error => {
+        document.getElementById("folderList").innerHTML = "<li>Erro ao carregar pastas.</li>";
+        console.error(error);
+      });
+
+    // Lista de arquivos ZIP manual ou gerada externamente
     const files = [
       "pasta1/arquivo1.zip",
       "pasta2/outro.zip",
       "pasta3/censo_faces.zip"
-      // Adicione mais arquivos conforme necessário
     ];
 
-    const fileList = document.getElementById('fileList');
-
     function renderList(filter = "") {
+      const fileList = document.getElementById('fileList');
       fileList.innerHTML = "";
       files
         .filter(f => f.toLowerCase().includes(filter.toLowerCase()))
@@ -92,7 +117,6 @@
       renderList(query);
     }
 
-    // Inicializa a lista
     renderList();
   </script>
 </body>
